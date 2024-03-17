@@ -1,9 +1,8 @@
-import streamlit as st
 
-
-import cv2
 import streamlit as st
 import numpy as np
+import cv2
+from ultralytics import YOLO
 
 # Replace the relative path to your weight file
 model_path = '/content/drive/MyDrive/Cars Sheba/model_- 5 march 2024 11_47.pt'
