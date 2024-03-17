@@ -1,10 +1,8 @@
 import streamlit as st
-from ultralytics import YOLO
 
 
 import cv2
 import streamlit as st
-from ultralytics import YOLO
 import numpy as np
 
 # Replace the relative path to your weight file
