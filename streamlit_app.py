@@ -1,7 +1,6 @@
 import streamlit as st
 from ultralytics import YOLO
 
-%%writefile app2.py
 
 import cv2
 import streamlit as st
